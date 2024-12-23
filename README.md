@@ -1,4 +1,4 @@
-# Bagels
+# Calendar Maker
 
 ## About
 
